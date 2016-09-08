@@ -4,7 +4,16 @@ WHAT IS THIS THING?
 
 
 You cannot be unhappy with a cupcake in your hands.
+
+ HEAD
+
+You can be happy with a billion dollar check in your hands.
+
+Hi. I am happy taking the WebArchitecture Class.
+
+
 Hello Everyone!!
+ d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
 Computers are useless.  They can only provide answers.
  -Pablo Picasso
 Command not found!!
@@ -18,14 +27,25 @@ Get busy living, or get busy dying.
 
 
 Sometimes.
+ HEAD
+ HEAD
+ ab7e3a8ff93d7117707089db979e47f68948e363
+
+Get busy living, or get busy dying.
+ a9ba4f2ed01f2e024458d3542b9a047441df0ecc
+
 I added another quote
 Born wild and forcefully tamed -Karthik
 Get busy living, or get busy dying.
-<<<<<<< HEAD
->>>>>>> a9ba4f2ed01f2e024458d3542b9a047441df0ecc
+ HEAD
+ a9ba4f2ed01f2e024458d3542b9a047441df0ecc
 happy happy happy
-=======
+
 I want a cup of coffee.
 Love you Ruby:x
 
->>>>>>> f6129813257f702ba6e42f95bf55a0f230e0f3ef
+ HEAD
+ f6129813257f702ba6e42f95bf55a0f230e0f3ef
+
+ d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
+ b3c5393e19db530c1108244db55b9c062b1dc8a0
