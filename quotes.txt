@@ -1,4 +1,5 @@
 You cannot be unhappy with a cupcake in your hands.
+<<<<<<< HEAD
 
 
 
@@ -11,4 +12,26 @@ You cannot be unhappy with a cupcake in your hands.
 
 
 
-I killed harambe, with a skript-_-
+
+=======
+Computers are useless.  They can only provide answers.
+ -Pablo Picasso
+Command not found!!
+Make Harambe Alive Again!
+You can be happy with a billion dollar check in your hands.
+I didn't know that was classified!
+Sometimes.
+<<<<<<< HEAD
+>>>>>>> 689cffaa57d9b087424ece04c0f04bd22c281312
+
+Born wild and forcefully tamed -Karthik
+=======
+Get busy living, or get busy dying.
+>>>>>>> a9ba4f2ed01f2e024458d3542b9a047441df0ecc
+I want a cup of coffee.
+>>>>>>> c4fc666cdadba52401f76c950ef56cb7a166e97e
+
+
+
+
+I killed harambe
