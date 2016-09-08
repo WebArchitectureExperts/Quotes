@@ -12,4 +12,8 @@ Make Harambe Alive Again!
 You can be happy with a billion dollar check in your hands.
 I didn't know that was classified!
 Sometimes.
+<<<<<<< HEAD
 >>>>>>> ab7e3a8ff93d7117707089db979e47f68948e363
+=======
+Get busy living, or get busy dying.
+>>>>>>> a9ba4f2ed01f2e024458d3542b9a047441df0ecc
