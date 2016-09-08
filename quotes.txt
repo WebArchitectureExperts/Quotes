@@ -12,10 +12,16 @@ You cannot be unhappy with a cupcake in your hands.
 
 
 
-You cannot be unhappy with a cupcake in your hands. HEAD
+You cannot be unhappy with a cupcake in your hands.
+
 
 You can be happy with a billion dollar check in your hands.
 
+Hi. I am happy taking the WebArchitecture Class.
+
+
+Hello Everyone!!
+Hello Everyone!!
 Give the world the best you have
 
 
@@ -23,8 +29,6 @@ Hello Everyone!!
 
 
 
-Hello Everyone!!
-Hi. I am happy taking the WebArchitecture Class.
 Hello Everyone!!
 Computers are useless.  They can only provide answers.
  -Pablo Picasso
@@ -50,12 +54,40 @@ Sometimes2
 Born wild and forcefully tamed-k
 Get busy living, or get busy dying.
 Sometimes.
-Get busy living, or get busy dying.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ HEAD
+ HEAD
+ ab7e3a8ff93d7117707089db979e47f68948e363
 
 Get busy living, or get busy dying.
+ a9ba4f2ed01f2e024458d3542b9a047441df0ecc
+
+=======
+>>>>>>> 144e06c15a17c31615d5d779ab8f5c6d2ceb99f3
+=======
+HEAD
+HEAD
+ab7e3a8ff93d7117707089db979e47f68948e363
+
+>>>>>>> 448c4247b0029d1b3770d703924fb3e372942c94
+Get busy living, or get busy dying.
+
+<<<<<<< HEAD
+Get busy living, or get busy dying.
+=======
+ ee2b0977d4ae3ce00221da7756fa9283fa2924de
+>>>>>>> 7522efd18baaf0319a53f9e7e9bc0424832d97dd
+>>>>>>> 448c4247b0029d1b3770d703924fb3e372942c94
 I added another quote
 Born wild and forcefully tamed -Karthik
 Get busy living, or get busy dying.
+ HEAD
+ a9ba4f2ed01f2e024458d3542b9a047441df0ecc
+happy happy happy
+
 I want a cup of coffee.
 It is better to die living on your feet than to live a lifetime on your knees.
 Love you Ruby:x
@@ -69,3 +101,20 @@ Love you Ruby:x
 
 Love you Ruby:x
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ HEAD
+ f6129813257f702ba6e42f95bf55a0f230e0f3ef
+
+ d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
+ b3c5393e19db530c1108244db55b9c062b1dc8a0
+=======
+>>>>>>> 144e06c15a17c31615d5d779ab8f5c6d2ceb99f3
+=======
+ 05ad8e62e57d072174617ee2294f25e370b9f63df
+SHut up ricardo
+ ee2b0977d4ae3ce00221da7756fa9283fa2924de
+>>>>>>> 7522efd18baaf0319a53f9e7e9bc0424832d97dd
+>>>>>>> 448c4247b0029d1b3770d703924fb3e372942c94
