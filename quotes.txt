@@ -7,11 +7,9 @@ Make Harambe Alive Again!
 You can be happy with a billion dollar check in your hands.
 I didn't know that was classified!
 Sometimes.
-<<<<<<< HEAD
->>>>>>> 689cffaa57d9b087424ece04c0f04bd22c281312
-
+I added another quote
 Born wild and forcefully tamed -Karthik
-=======
 Get busy living, or get busy dying.
->>>>>>> a9ba4f2ed01f2e024458d3542b9a047441df0ecc
 I want a cup of coffee.
+Love you Ruby:x
+
