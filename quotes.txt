@@ -4,6 +4,7 @@ WHAT IS THIS THING?
 
 
 You cannot be unhappy with a cupcake in your hands.
+Hello Everyone!!
 Computers are useless.  They can only provide answers.
  -Pablo Picasso
 Command not found!!
@@ -21,4 +22,5 @@ I added another quote
 Born wild and forcefully tamed -Karthik
 Get busy living, or get busy dying.
 I want a cup of coffee.
+Love you Ruby:x
 
