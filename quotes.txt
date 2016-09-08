@@ -6,6 +6,20 @@ You can be happy with a billion dollar check in your hands.
 Hi. I am happy taking the WebArchitecture Class.
 
 You cannot be unhappy with a cupcake in your hands.
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hello Everyone!!
 Computers are useless.  They can only provide answers.
  -Pablo Picasso
@@ -20,12 +34,17 @@ Sometimes
 Born wild and forcefully tamed -Karthik
 Get busy living, or get busy dying.
 Sometimes.
-<<<<<<< HEAD
 Get busy living, or get busy dying.
 I added another quote
 Born wild and forcefully tamed -Karthik
 Get busy living, or get busy dying.
 I want a cup of coffee.
 It is better to die living on your feet than to live a lifetime on your knees.
+
+
+
+
+I killed harambe
 Love you Ruby:x
 
+SHut up ricardo
