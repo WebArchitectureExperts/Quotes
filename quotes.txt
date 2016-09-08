@@ -1,5 +1,15 @@
 You cannot be unhappy with a cupcake in your hands.
+<<<<<<< HEAD
 
 You can be happy with a billion dollar check in your hands.
 
 Hi. I am happy taking the WebArchitecture Class.
+=======
+Computers are useless.  They can only provide answers.
+ -Pablo Picasso
+Command not found!!
+Make Harambe Alive Again!
+You can be happy with a billion dollar check in your hands.
+I didn't know that was classified!
+Sometimes.
+>>>>>>> ab7e3a8ff93d7117707089db979e47f68948e363
