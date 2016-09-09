@@ -1,0 +1,48 @@
+
+
+WHAT IS THIS THING?
+
+
+You cannot be unhappy with a cupcake in your hands.
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+You can be happy with a billion dollar check in your hands.
+
+Hi. I am happy taking the WebArchitecture Class.
+=======
+=======
+Hello Everyone!!
+>>>>>>> d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
+Computers are useless.  They can only provide answers.
+ -Pablo Picasso
+Command not found!!
+Make Harambe Alive Again!
+You can be happy with a billion dollar check in your hands.
+I didn't know that was classified!
+Sometimes2
+
+Born wild and forcefully tamed -Karthik
+Get busy living, or get busy dying.
+
+
+Sometimes.
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ab7e3a8ff93d7117707089db979e47f68948e363
+=======
+Get busy living, or get busy dying.
+>>>>>>> a9ba4f2ed01f2e024458d3542b9a047441df0ecc
+=======
+I added another quote
+Born wild and forcefully tamed -Karthik
+Get busy living, or get busy dying.
+I want a cup of coffee.
+Love you Ruby:x
+
+<<<<<<< HEAD
+It is better to die living on your feet than to live a lifetime on your knees.
+
+=======
+>>>>>>> d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
+>>>>>>> b3c5393e19db530c1108244db55b9c062b1dc8a0
