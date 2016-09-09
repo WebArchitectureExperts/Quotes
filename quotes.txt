@@ -67,8 +67,17 @@ Get busy living, or get busy dying.
 I want a cup of coffee.
 Love you Ruby:x
 
+ HEAD
 HEAD
  d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
 
 d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
  b3c5393e19db530c1108244db55b9c062b1dc8a0
+
+HEAD
+It is better to die living on your feet than to live a lifetime on your knees.
+
+
+ d9ccae4f86f51f3cd7bc4ecaac4f1d71ca9cadd4
+ b3c5393e19db530c1108244db55b9c062b1dc8a0
+ee9daffa675b64745dada1c8a9353aec9421756e
